@@ -4,4 +4,4 @@
 # The real stuff would be adding some selenium/phantomjs tests with real UI interaction
 # Will implement in the future
 
-curl ${STAGING_FRONT_URL} | grep 'Register products'
+curl ${STAGING_FRONT_URL} | grep 'orders'
